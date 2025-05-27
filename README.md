@@ -23,13 +23,15 @@ Vorschau: https://solutit.kabel6499.de
 
 - schnelles Ändern der E-Mail Struktur oder den Downloadlink der vCard
 
-## 🛠️ Installation
+---
+## Installation
 
 ### 1. Repository klonen
 
 ```bash
 git clone https://github.com/Kabel6499/solutit-contact-page.git
 cd solutit-vcard
+```
 
 ### 2. Website veröffentlichen
 
