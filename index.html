@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>solutiT GmbH</title>
+  <link rel="icon" type="image/png" href="https://solutit.de/wp-content/uploads/2022/06/favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+
+    .header {
+      background: linear-gradient(to bottom, #b1873b, #a1761f);
+      text-align: center;
+      color: white;
+      padding: 40px 20px 20px;
+    }
+
+    .logo {
+      width: 100px;
+      height: 100px;
+      background: white;
+      border-radius: 50%;
+      margin: 0 auto 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .logo img {
+      max-width: 80%;
+    }
+
+    .company {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    .tagline {
+      font-size: 14px;
+      opacity: 0.9;
+    }
+
+    .buttons {
+      display: flex;
+      justify-content: center;
+      margin: 20px 0;
+    }
+
+    .button {
+      flex: 1;
+      text-align: center;
+      padding: 15px 0;
+      background-color: #b1873b;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-right: 1px solid #a1761f;
+    }
+
+    .button:last-child {
+      border-right: none;
+    }
+
+    .section {
+      padding: 20px;
+      background: white;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    .section p {
+      line-height: 1.6;
+    }
+
+    .info-item {
+      display: flex;
+      align-items: flex-start;
+      margin: 20px 0;
+    }
+
+    .info-item img {
+      width: 40px;
+      margin-right: 10px;
+      align-items: baseline;
+    }
+
+    .info-content {
+      line-height: 1.4;
+    }
+
+    .info-label {
+      font-size: 13px;
+      color: #888;
+    }
+
+    .vcard-button {
+      display: block;
+      text-align: center;
+      margin: 20px auto;
+      padding: 14px 20px;
+      background-color: #37474F;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      max-width: 320px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .vcard-button:hover {
+      background-color: #263238;
+    }
+  </style>
+  <script>
+    window.addEventListener('load', function() {
+      document.getElementById('preloader').style.display = 'none';
+    });
+  </script>
+</head>
+<body>
+  <div id="preloader" class="preloader">
+    <div class="spinner"></div>
+  </div>
+
+  <div class="header">
+    <div class="logo">
+      <img src="https://solutit.de/wp-content/uploads/2022/06/Logo-Solutit-1.png" alt="Logo">
+    </div>
+    <div class="company">solutiT GmbH</div>
+    <div class="tagline">IT Consulting</div>
+  </div>
+
+  <div class="buttons">
+    <a href="tel:05292932288" class="button">ANRUFEN</a>
+    <a href="mailto:info@solutit.de" class="button">E-MAIL</a>
+  </div>
+
+  <div class="section">
+    <p>solutiT berät Kunden strategisch<br>
+    und entwickelt passende individuelle Softwarelösungen,<br>
+    die Ihrem Unternehmen einen wirkungsvollen Technologievorsprung verschaffen.</p>
+
+    <div class="info-item">
+      <img src="icon_processed_1.png" alt="Telefon">
+      <div class="info-content">
+        <a href="tel:05292932288">05292932288</a><br>
+        <span class="info-label">Mobil</span>
+      </div>
+    </div>
+
+    <div class="info-item">
+      <img src="icon_processed_2.png" alt="E-Mail">
+      <div class="info-content">
+        <a href="mailto:info@solutit.de">info@solutit.de</a><br>
+        <span class="info-label">E-Mail</span>
+      </div>
+    </div>
+
+    <div class="info-item">
+      <img src="icon_processed_3.png" alt="Beratung">
+      <div class="info-content">
+        Analyse - Konzeption - Realisation<br>
+        <span class="info-label">IT Consulting</span>
+      </div>
+    </div>
+
+    <div class="info-item">
+      <img src="icon_processed_4.png" alt="Website">
+      <div class="info-content">
+        <a href="https://solutit.de" target="_blank">solutit.de</a><br>
+        <span class="info-label">Webseite (URL)</span>
+      </div>
+    </div>
+  </div>
+
+  <a href="https://cloud.kabel6499.de/index.php/s/xDwCGH5B8xKEyRz/download" class="vcard-button" download>Als Kontakt hinzufügen</a>
+
+  <a href="mailto:?subject=Kontakt%20solutiT%20GmbH&body=Guten%20Tag,%0A%0ADie%20solutiT%20GmbH%20hat%20Ihnen%20im%20Anhang%20einen%20Kontakt%20hinterlegt.%0A%0Ahttps%3A%2F%2Fcloud.kabel6499.de%2Findex.php%2Fs%2FxDwCGH5B8xKEyRz%2Fdownload%0A%0AMit%20freundlichen%20Gr%C3%BC%C3%9Fen%0AsolutiT%20GmbH" class="vcard-button">Kontakt via Mail versenden
+  
+</a>
+</body>
+</html>

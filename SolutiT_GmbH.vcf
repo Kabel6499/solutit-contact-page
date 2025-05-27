@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:GmbH;SolutiT;;;
+FN:SolutiT GmbH
+ORG:Analyse - Konzeption - Realisation;
+TITLE:IT Consulting
+EMAIL;TYPE=PREF,INTERNET:info@solutit.de
+TEL;TYPE=CELL,voice:05292932288
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;; ;;;;
+URL:solutit.de
+
+
+NOTE:solutiT berät Kunden strategisch und entwickelt passende individuelle Softwarelösungen, die Ihrem Unternehmen einen wirkungsvollem Technologievorsprung verschaffen.
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
