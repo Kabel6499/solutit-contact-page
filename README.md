@@ -12,7 +12,6 @@ Vorschau: https://solutit.kabel6499.de
 
 ## Inhalt
 
-- Responsive HTML-Seite (100% statisch – kein Backend nötig)
 - Firmenlogo und Kontaktinformationen
 - **Download-Link zur vCard**
 - **"Per Mail senden"-Button**
@@ -22,7 +21,7 @@ Vorschau: https://solutit.kabel6499.de
 ---
 ## Individuelle Informationen
 
-- schnelles Ändern der E-Mail Struktur oder Downloadlinks der vCard 
+- schnelles Ändern der E-Mail Struktur oder den Downloadlink der vCard
 
 ## 🛠️ Installation
 
@@ -31,3 +30,9 @@ Vorschau: https://solutit.kabel6499.de
 ```bash
 git clone https://github.com/Kabel6499/solutit-contact-page.git
 cd solutit-vcard
+
+### 2. Website veröffentlichen
+
+Die Website kann über Wordpress oder einem ähnlichen Websitebuilder sowie einem Webserver wie Apache2 oder NGINX
+
+---
