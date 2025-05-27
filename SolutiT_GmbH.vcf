@@ -1,7 +1,7 @@
 BEGIN:VCARD
 VERSION:3.0
-N:GmbH;SolutiT;;;
-FN:SolutiT GmbH
+N:solutIT;GmbH;;;
+FN:solutiT GmbH
 ORG:Analyse - Konzeption - Realisation;
 TITLE:IT Consulting
 EMAIL;TYPE=PREF,INTERNET:info@solutit.de
