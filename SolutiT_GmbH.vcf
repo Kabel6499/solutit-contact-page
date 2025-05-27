@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-N:solutIT;GmbH;;;
+N:GmbH;solutIT;;;
 FN:solutiT GmbH
 ORG:Analyse - Konzeption - Realisation;
 TITLE:IT Consulting
@@ -8,7 +8,7 @@ EMAIL;TYPE=PREF,INTERNET:info@solutit.de
 TEL;TYPE=CELL,voice:
 TEL;TYPE=WORK,voice:05292/898900-0
 TEL;TYPE=WORK,fax:
-ADR;TYPE=WORK;type=pref:;; ;;;;
+ADR;TYPE=WORK;TYPE=pref:;;Westernstraße 15a;Borchen;;33178;Germany
 URL:solutit.de
 
 
