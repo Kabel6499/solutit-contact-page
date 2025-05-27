@@ -1,13 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//QR-Code-Generator.com//EN
 N:GmbH;SolutiT;;;
 FN:SolutiT GmbH
 ORG:Analyse - Konzeption - Realisation;
 TITLE:IT Consulting
 EMAIL;TYPE=PREF,INTERNET:info@solutit.de
-TEL;TYPE=CELL,voice:05292932288
-TEL;TYPE=WORK,voice:
+TEL;TYPE=CELL,voice:
+TEL;TYPE=WORK,voice:05292/898900-0
 TEL;TYPE=WORK,fax:
 ADR;TYPE=WORK;type=pref:;; ;;;;
 URL:solutit.de
