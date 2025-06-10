@@ -35,6 +35,6 @@ cd solutit-vcard
 
 ### 2. Website veröffentlichen
 
-Die Website kann über Wordpress oder einem ähnlichen Websitebuilder sowie einem Webserver wie Apache2 oder NGINX
+Die Website kann über Wordpress oder einem ähnlichen Websitebuilder, sowie einem Webserver wie Apache2 oder NGINX installiert werden
 
 ---
